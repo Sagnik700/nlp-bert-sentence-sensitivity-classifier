@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NLP Sentence Sensitivity Classification</string>
+    <string name="process">Process</string>
+    <string name="sentiment">Sentiment</string>
+    <string name="prediction">:Prediction:</string>
+    <string name="enter_your_sentence_below_for_sensitivity_classification">Enter your sentence below for sensitivity classification:-</string>
+    <string name="Sensitive">Sensitive</string>
+    <string name="NonSensitive">Non-Sensitive</string>
+    <string-array name="model_types">
+        <item>BERT</item>
+        <item>GPT Neo-125M</item>
+    </string-array>
+</resources>
